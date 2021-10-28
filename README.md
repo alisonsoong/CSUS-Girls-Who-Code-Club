@@ -14,3 +14,8 @@
 - Flowcharts!
 - Learning to navigate IDLE (Shell, modules, running modules, etc)
 - If time: variables, automatic garbage collection, print function
+
+10/28/2021 - https://docs.google.com/presentation/d/1ERe9UZuE2dU7Rd-wz_Us1SHx60lzQ734tAe2lxYrJFE/edit?usp=sharing
+- Snacks!
+- Overview of concepts that we will need when creating our BuzzFeed Quizzes (let's build our toolkit!)
+- Time to start our projects :)
