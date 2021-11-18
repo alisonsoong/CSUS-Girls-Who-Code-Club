@@ -38,3 +38,7 @@
   - Dictionaries!
 - Last day to work on BuzzFeed Quiz project!
 - Downloading Xcode for our next project... :)
+
+12/09/2021 - https://docs.google.com/presentation/d/1pgfG6gKIr9WtCzbMuErO8j5UEnAjmPYCKc_8XGIcA4w/edit?usp=sharing
+- Download Xcode (didn't get to it last time)
+- While this is downloading: Women in Tech presentation!
