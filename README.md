@@ -40,8 +40,16 @@
 - Downloading Xcode for our next project... :)
 
 12/09/2021 - https://docs.google.com/presentation/d/1pgfG6gKIr9WtCzbMuErO8j5UEnAjmPYCKc_8XGIcA4w/edit?usp=sharing
+- Women in Tech presentation (Ayah Bdeir)
+  - Founder and CEO of littleBits!
 - Download Xcode (didn't get to it last time)
 - While this is downloading: Women in Tech presentation!
 - Set up Xcode and create our first app development project: a CSUS schedule app!
 - Download resources from this repo to get us started on the project
 - Get started! First start with resources, then with Main
+
+01/06/2022 - https://docs.google.com/presentation/d/1MFpmeU0iIg27QDO-_UE8WXGM28nt9yvkW0j7CMLU_TM/edit?usp=sharing
+- Women in Tech presentation
+- Finish projects (buzzfeed quizzes, app development)
+- Introduction to CSUS STEM FEST!
+  - Begin brainstorming projects
