@@ -49,7 +49,8 @@
 - Get started! First start with resources, then with Main
 
 01/06/2022 - https://docs.google.com/presentation/d/1MFpmeU0iIg27QDO-_UE8WXGM28nt9yvkW0j7CMLU_TM/edit?usp=sharing
-- Women in Tech presentation
+- Women in Tech presentation (MiMi Aung)
+  - Project manager of NASA’s Mars Helicopter Project!
 - Finish projects (buzzfeed quizzes, app development)
 - Introduction to CSUS STEM FEST!
   - Begin brainstorming projects
