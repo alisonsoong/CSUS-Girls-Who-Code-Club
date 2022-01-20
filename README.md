@@ -54,3 +54,7 @@
 - Finish projects (buzzfeed quizzes, app development)
 - Introduction to CSUS STEM FEST!
   - Begin brainstorming projects
+
+01/20/2022 - https://docs.google.com/presentation/d/1rFQXjQEU7sDvQkc8Iz0sZWJI9FC-ELov1iP0wwUvrs8/edit?usp=sharing
+- Women in Tech presentation (Catt Small)
+- Continue thinking about CSUS STEM FEST projects
