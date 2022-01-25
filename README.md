@@ -58,3 +58,10 @@
 01/20/2022 - https://docs.google.com/presentation/d/1rFQXjQEU7sDvQkc8Iz0sZWJI9FC-ELov1iP0wwUvrs8/edit?usp=sharing
 - Women in Tech presentation (Catt Small)
 - Continue thinking about CSUS STEM FEST projects
+
+02/03/2022 - https://docs.google.com/presentation/d/1uofiBai8oqccP25ZoNbvQhdr2RyrKFZOrB5gg0qFzw0/edit#slide=id.p
+- Women in Tech presentation ()
+- Review research topic!
+- Creates goals, outline, and timeline for project
+- Start researching and taking notes on one central document
+- Research how to write journal articles!
