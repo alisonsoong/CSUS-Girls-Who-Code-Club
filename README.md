@@ -60,6 +60,7 @@
 - Continue thinking about CSUS STEM FEST projects
 
 02/03/2022 - https://docs.google.com/presentation/d/1uofiBai8oqccP25ZoNbvQhdr2RyrKFZOrB5gg0qFzw0/edit#slide=id.p
+- Notes taken on doc: https://docs.google.com/document/d/12jn7OEJgwYKCBRezI24zE_qnBgRxVpf7ceBdnYRasww/edit
 - Women in Tech presentation ()
 - Review research topic!
 - Creates goals, outline, and timeline for project
