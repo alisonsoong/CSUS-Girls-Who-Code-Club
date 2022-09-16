@@ -1,6 +1,10 @@
 # CSUS Girls Who Code Club
 
-# Club Meeting Slides
+# 2022-2023 Club Meeting Slides
+9/15/2021 - https://docs.google.com/presentation/d/1aGJId3q_z3r7m7aUXR9AA_HWzEFiXedqbH6YiLlbRbo/edit?usp=sharing
+- First meeting once again!
+
+# 2021-2022 Club Meeting Slides
 9/30/2021 - https://docs.google.com/presentation/d/1cyyaLbWTQ6JUIvy6Rz_08T6sbB_2bCRk2VtC-crKWmI/edit?usp=sharing
 - First meeting! Introductions
 - Joined GWC HQ, created GitHub accounts, and downloaded Python
